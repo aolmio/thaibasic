@@ -1,0 +1,2 @@
+# thaibasic
+basic thai core
